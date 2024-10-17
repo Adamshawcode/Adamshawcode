@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Adamshawcode
+- 👀 I’m interested in 🌐 web development, 📱 mobile apps, and 🤖 AI technologies.
+- 🌱 I’m currently learning 🚀 advanced React Native techniques and ☁️ cloud-based solutions.
+- 💞️ I’m looking to collaborate on 💡 exciting app development projects and 🛠️ open-source software.
+- 📫 How to reach me: [Adamshawcode@gmail.com](mailto:Adamshawcode@gmail.com) 📧
+- 😄 Pronouns: he/him 👨‍💻
+- ⚡ Fun fact: I love ⚽︎ football, 🏞️ adventuring, and 📺 watching Breaking Bad 😅
